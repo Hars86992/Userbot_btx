@@ -12,12 +12,12 @@ from X.helpers.tools import get_arg
 from .help import *
 
 DEF_UNAPPROVED_MSG = (
- "❏ ᴘᴍ sᴇᴄᴜʀɪᴛʏ ᴏғ  ˹Jᴀᴘᴀɴᴇsᴇ-X-Usᴇʀʙᴏᴛ˼ !\n"
-"├ Mᴏsᴛ Pᴏᴡᴇʀғᴜʟ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇ Tᴇʟᴇɢʀᴀᴍ Usᴇʀʙᴏᴛ\n"
-"├ Mʏ Mᴀsᴛᴇʀ ɪs Bᴜsʏ ʀɪɢʜᴛ ɴᴀᴍᴇ sᴏ Dᴏɴ'ᴛ sᴘᴀᴍ ᴘʟᴇᴀsᴇ ᴏᴛʜᴇʀᴡɪsᴇ I ᴡɪʟʟ ʙʟᴏᴄᴋ ʏᴏᴜ\n"
-"╰ Pᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴘᴀɴᴇsᴇ-X-Usᴇʀʙᴏᴛ\n"
+ "❏ BTxSELLER PM SECURITY BOT !\n"
+"├ ❤️𝐎ɯɳҽɾ 𝐈ʂ 𝐎ϝϝℓιɳҽ 𝐒ꪮ 𝐏ℓꫀαʂꫀ 𝐃σɳ'ƚ 𝐒ραɱ🌪️ \n"
+"├ M𝐈ϝ 𝐘συ 𝐒ραɱ , 𝐘συ 𝐖ιℓℓ 𝐁ҽ 𝐁ℓσ¢ƙҽԃ 𝐀υƚσɱαƚι¢ℓℓу \n"
+"╰ PLEASE DONT SPAM REGARDS @CALLMEBTX \n"
+"╰ POWERED BY JAPANESE X USERBOT \n"
 )
-
 
 @Client.on_message(
     ~filters.me & filters.private & ~filters.bot & filters.incoming, group=69
