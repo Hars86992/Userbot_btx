@@ -16,6 +16,7 @@ DEF_UNAPPROVED_MSG = (
 "├ ❤️𝐎ɯɳҽɾ 𝐈ʂ 𝐎ϝϝℓιɳҽ 𝐒ꪮ 𝐏ℓꫀαʂꫀ 𝐃σɳ'ƚ 𝐒ραɱ🌪️ \n"
 "├ M𝐈ϝ 𝐘συ 𝐒ραɱ , 𝐘συ 𝐖ιℓℓ 𝐁ҽ 𝐁ℓσ¢ƙҽԃ 𝐀υƚσɱαƚι¢ℓℓу \n"
 "╰ PLEASE DONT SPAM REGARDS @CALLMEBTX \n"
+"╰ POWERED BY JAPANESE X USERBOT \n"
 )
 
 
